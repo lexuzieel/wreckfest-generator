@@ -1,0 +1,228 @@
+[
+    {
+        "weight": 1.25,
+        "name": "bigstadium_demolition_arena",
+        "gamemodes": [
+            {
+                "name": "team derby"
+            }
+        ]
+    },
+    {
+        "name": "bigstadium_figure_8",
+        "laps": [
+            6,
+            8
+        ]
+    },
+    {
+        "name": "bonebreaker_valley_main_circuit"
+    },
+    {
+        "name": "crash_canyon_main_circuit"
+    },
+    {
+        "name": "dirt_speedway_dirt_oval",
+        "laps": [
+            6,
+            8
+        ]
+    },
+    {
+        "name": "dirt_speedway_figure_8",
+        "laps": [
+            6,
+            8
+        ]
+    },
+    {
+        "weight": 1.25,
+        "name": "field_derby_arena",
+        "gamemodes": [
+            {
+                "name": "team derby"
+            }
+        ]
+    },
+    {
+        "name": "grass_arena_demolition_arena",
+        "gamemodes": [
+            {
+                "name": "team derby"
+            }
+        ]
+    },
+    {
+        "name": "gravel1_main_loop"
+    },
+    {
+        "weight": 1.5,
+        "name": "loop"
+    },
+    {
+        "name": "mixed1_main_circuit"
+    },
+    {
+        "name": "mixed2_main_circuit"
+    },
+    {
+        "name": "mixed3_long_loop"
+    },
+    {
+        "name": "mixed3_short_loop"
+    },
+    {
+        "name": "mixed4_main_circuit"
+    },
+    {
+        "name": "mixed5_outer_loop"
+    },
+    {
+        "name": "mixed5_inner_loop"
+    },
+    {
+        "name": "mixed5_free_route"
+    },
+    {
+        "name": "mixed7_r1"
+    },
+    {
+        "name": "mixed7_r3"
+    },
+    {
+        "name": "mixed8_r1"
+    },
+    {
+        "name": "mixed8_r2"
+    },
+    {
+        "name": "mixed9_r1"
+    },
+    {
+        "weight": 1.25,
+        "name": "mudpit_demolition_arena",
+        "gamemodes": [
+            {
+                "name": "team derby"
+            }
+        ],
+        "laps": [
+            6,
+            8
+        ]
+    },
+    {
+        "weight": 1.25,
+        "name": "sandpit1_long_loop"
+    },
+    {
+        "name": "sandpit1_short_loop"
+    },
+    {
+        "name": "sandpit1_alt_loop"
+    },
+    {
+        "weight": 1.25,
+        "name": "sandpit2_full_circuit"
+    },
+    {
+        "name": "sandpit2_2"
+    },
+    {
+        "name": "sandpit3_long_loop"
+    },
+    {
+        "weight": 1.25,
+        "name": "sandpit3_short_loop"
+    },
+    {
+        "weight": 1.25,
+        "name": "smallstadium_demolition_arena",
+        "gamemodes": [
+            {
+                "name": "team derby"
+            }
+        ]
+    },
+    {
+        "weight": 1.5,
+        "name": "speedway1_figure_8",
+        "laps": [
+            8,
+            10
+        ]
+    },
+    {
+        "name": "speedway1_oval",
+        "laps": [
+            8,
+            10
+        ]
+    },
+    {
+        "name": "speedway2_classic_arena",
+        "gamemodes": [
+            {
+                "name": "team derby"
+            }
+        ]
+    },
+    {
+        "name": "speedway2_demolition_arena",
+        "gamemodes": [
+            {
+                "name": "team derby"
+            }
+        ]
+    },
+    {
+        "weight": 1.5,
+        "name": "speedway2_figure_8",
+        "laps": [
+            6,
+            8
+        ]
+    },
+    {
+        "name": "speedway2_inner_oval",
+        "laps": [
+            5,
+            10
+        ]
+    },
+    {
+        "name": "speedway2_outer_oval",
+        "laps": [
+            5,
+            10
+        ]
+    },
+    {
+        "name": "speedway2_oval_loop",
+        "laps": [
+            5,
+            10
+        ]
+    },
+    {
+        "name": "tarmac1_main_circuit"
+    },
+    {
+        "name": "tarmac1_short_circuit"
+    },
+    {
+        "name": "tarmac2_main_circuit"
+    },
+    {
+        "name": "tarmac3_main_circuit"
+    },
+    {
+        "name": "tarmac3_short_circuit"
+    },
+    {
+        "name": "triangle_r1"
+    },
+    {
+        "name": "triangle_r2"
+    }
+]
