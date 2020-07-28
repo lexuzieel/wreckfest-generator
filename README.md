@@ -1,8 +1,8 @@
-# Usage
+# Wreckfest event generator
 
-This utility can generate a number of randomized racing events.
+This utility generates randomized racing events for the server automaticlly.
 
-In addition it allows to tweak probability distribution of tracks and gamemodes.
+It allows to tweak probability distribution of tracks and gamemodes in order to manage how often each track with specific gamemode appears in rotation.
 
 ```
 $ node .
